@@ -1,8 +1,32 @@
 body {
     background-color: purple;
-    font-family: sans-serif;
+    font-family: cursive;
 }
 
 h1 {
-    color: green;
+    color: lime;
+}
+
+p {
+    color: deeppink;
+}
+
+li {
+    color: deeppink;
+}
+
+td {
+    color: deeppink;
+}
+
+dt {
+    color: deeppink;
+}
+
+dd {
+    color: deeppink;
+}
+
+h2 {
+    color: greenyellow;
 }

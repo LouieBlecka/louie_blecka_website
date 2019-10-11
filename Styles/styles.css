@@ -30,3 +30,13 @@ dd {
 h2 {
     color: greenyellow;
 }
+
+a {
+    color:salmon;
+}
+
+img {
+    position: relative;
+    float: right;
+    top: -175px;
+}

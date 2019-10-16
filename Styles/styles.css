@@ -1,6 +1,7 @@
 body {
     background-color: purple;
     font-family: cursive;
+    text-align: right
 }
 
 h1 {
@@ -32,13 +33,17 @@ h2 {
 }
 
 a {
-    color:salmon;
+    color:indigo;
 }
 
 img {
     position: relative;
-    float: right;
+    float: left;
     top: -175px;
+}
+
+.center {
+    text-align: center;
 }
 
 #nav1 {
@@ -55,4 +60,8 @@ img {
 }
 #nav5 {
 color: blue;
+}
+
+a:hover {
+    color: yellowgreen;
 }

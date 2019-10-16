@@ -40,3 +40,19 @@ img {
     float: right;
     top: -175px;
 }
+
+#nav1 {
+ color: red;
+}
+#nav2 {
+ color: orange;
+}
+#nav3 {
+ color: yellow;
+}
+#nav4 {
+ color: green;
+}
+#nav5 {
+color: blue;
+}

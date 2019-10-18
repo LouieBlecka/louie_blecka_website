@@ -1,7 +1,8 @@
 body {
     background-color: purple;
     font-family: cursive;
-    text-align: right
+    text-align: right;
+    list-style-position: inside;
 }
 
 h1 {
@@ -33,13 +34,14 @@ h2 {
 }
 
 a {
-    color:indigo;
+    color: indigo;
 }
 
 img {
     position: relative;
-    float: left;
-    top: -175px;
+
+    top: -350px;
+    right: 609px;
 }
 
 .center {
@@ -47,21 +49,37 @@ img {
 }
 
 #nav1 {
- color: red;
+    color: red;
 }
+
 #nav2 {
- color: orange;
+    color: orange;
 }
+
 #nav3 {
- color: yellow;
+    color: yellow;
 }
+
 #nav4 {
- color: green;
+    color: green;
 }
+
 #nav5 {
-color: blue;
+    color: blue;
+}
+
+#navigation {
+    text-align: center;
 }
 
 a:hover {
     color: yellowgreen;
+}
+
+.table {
+    margin-left: 275px;
+}
+
+.normal-text {
+    font-family: "Times New Roman", Times, serif;
 }
